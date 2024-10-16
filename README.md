@@ -1,6 +1,6 @@
-<H3>Name:KARTHIKEYAN R</H3>
-<H3>Register no.:212222240046</H3>
-<H3>Date:12/09/24</H3>
+<H3>Name:ASWINTH T</H3>
+<H3>Register no.:212222230015</H3>
+<H3>Date:12/10/24</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
